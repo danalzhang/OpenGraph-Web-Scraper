@@ -8,7 +8,7 @@ import "./index.css";
 
 function App() {
   return (
-    <div class="bg-indigo-400 overflow-x-hidden">
+    <div className="bg-indigo-700 min-h-screen overflow-hidden">
       <div>
         <NavigationBar />
       </div>

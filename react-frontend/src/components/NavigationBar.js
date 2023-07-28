@@ -55,7 +55,7 @@ function NavigationBar() {
                       />
                     </svg>
                     <span class="font-bold px-1 cursor-default">
-                      OpenGraph Web Scraper
+                      OpenGraph Web Scrapper
                     </span>
                   </li>
                 </div>
