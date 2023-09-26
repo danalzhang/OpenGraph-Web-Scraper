@@ -7,7 +7,7 @@
 
 Welcome to the Open Graph Web Scraper & API project, developed by a team of dedicated programmers. This project aims to simplify the process of extracting Open Graph data from websites by providing a user-friendly API and a showcase website.
 
-This project was completed by a group of five individuals: Dylan Finlay, David He, Daniel Chenrui Zhang, Marcus Luong, and Varuni Gupta. It was completed in the month of July 2023, as a prototype for ShyftLabs, a software company in Toronto.
+This project was completed by a group of five individuals: Dylan Finlay, David He, Daniel Chenrui Zhang, Marcus Luong, and Varuni Gupta. Completed as a prototype for ShyftLabs, a software company in Toronto.
 
 ## Table of Contents
 
